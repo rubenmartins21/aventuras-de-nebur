@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="677ab098-a878-425f-b1e3-2629dee7d53b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="868457217">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1670571282">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="py" value="17412" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="17412" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1269132650">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1421800166">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="417471055">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adventure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <caret line="354" column="20" selection-start-line="354" selection-start-column="20" selection-end-line="354" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes_adventure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="770" column="56" selection-start-line="770" selection-start-column="56" selection-end-line="770" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1549067989255" expanded="true" signature="15880:15919" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bu</find>
+      <find>bulle</find>
+      <find>ene</find>
+      <find>sword atta</find>
+      <find>boss_lie</find>
+      <find>150</find>
+      <find>atta</find>
+      <find>timer</find>
+      <find>game_intro</find>
+      <find>Bau</find>
+      <find>kill</find>
+      <find>playe</find>
+      <find>bomb</find>
+      <find>potio</find>
+      <find>potion</find>
+      <find>game</find>
+      <find>space</find>
+      <find>collideba</find>
+      <find>e.kill</find>
+      <find>player</find>
+      <find>collideb</find>
+      <find>boss_li</find>
+      <find>collidebau</find>
+      <find>sound</find>
+      <find>boss</find>
+      <find>enemy</find>
+      <find>lose</find>
+      <find>pause</find>
+      <find>bau</find>
+      <find>life</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/adventure.py/2d plataform game.py" />
+        <option value="$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Scrolling Backgrounds in Pygame/Pygame_Functions-master/pygame_functions.py" />
+        <option value="$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Scrolling Backgrounds in Pygame/Pygame_Functions-master/demos/scrollDemo.py" />
+        <option value="$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Seamless Scrolling Background Image-20190117T101430Z-001/Seamless Scrolling Background Image/background.py" />
+        <option value="$PROJECT_DIR$/../adventure/adventure.py" />
+        <option value="E:/Aventuras de nebur/classes_adventure.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pygame/sprite.py" />
+        <option value="$PROJECT_DIR$/classes_adventure.py" />
+        <option value="$PROJECT_DIR$/adventure.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Aventuras de nebur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aventuras de nebur" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.adventure (1)">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="Aventuras de nebur" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Ruben Martins\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adventure (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aventuras de nebur" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../adventure" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../adventure/adventure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adventure (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aventuras de nebur" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/Aventuras de nebur" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/Aventuras de nebur/adventure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adventure (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aventuras de nebur" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Aventuras de nebur" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Aventuras de nebur/adventure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adventure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aventuras de nebur" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adventure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="playerscroll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aventuras de nebur" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Scrolling Background with Player-20190117T101416Z-001/Scrolling Background with Player" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Scrolling Background with Player-20190117T101416Z-001/Scrolling Background with Player/playerscroll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.adventure" />
+      <item itemvalue="Python.adventure (1)" />
+      <item itemvalue="Python.playerscroll" />
+      <item itemvalue="Python.adventure (2)" />
+      <item itemvalue="Python.adventure (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.adventure (1)" />
+        <item itemvalue="Python.adventure" />
+        <item itemvalue="Python.adventure (3)" />
+        <item itemvalue="Python.adventure (2)" />
+        <item itemvalue="Python.playerscroll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677ab098-a878-425f-b1e3-2629dee7d53b" name="Default Changelist" comment="" />
+      <created>1547330128355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547330128355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13169643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27580646" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13169643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27704918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/code/ch04/moveBox.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/code/ch06/basicSprite.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Scrolling Backgrounds in Pygame/Pygame_Functions-master/demos/scrollDemo.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Scrolling Backgrounds in Pygame/Pygame_Functions-master/pygame_functions.py" />
+    <entry file="file://$PROJECT_DIR$/../adventure/classes_adventure.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Scrolling Background with Player-20190117T101416Z-001/Scrolling Background with Player/demo_stage.py" />
+    <entry file="file://$PROJECT_DIR$/../adventure/adventure.py" />
+    <entry file="file://E:/Aventuras de nebur/adventure.py" />
+    <entry file="file://E:/Aventuras de nebur/classes_adventure.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pygame/sprite.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Aventuras de nebur/classes_adventure.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Aventuras de nebur/adventure.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Seamless Scrolling Background Image-20190117T101430Z-001/Seamless Scrolling Background Image/background.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Seamless Scrolling Background Image-20190117T101430Z-001/Seamless Scrolling Background Image/template.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/adventure.py/2d plataform game.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/Pygame jogos de plataforma/Scrolling Background with Player-20190117T101416Z-001/Scrolling Background with Player/playerscroll.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/fumiko-pygame-master/fumiko-pygame-master/start.py" />
+    <entry file="file://$PROJECT_DIR$/../Ruben/Importante/documentos de  unicv/Terceiro ano/IA jogos/Projecto final/aboutright0-master/aboutright0-master/game.py" />
+    <entry file="file://$PROJECT_DIR$/classes_adventure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="770" column="56" selection-start-line="770" selection-start-column="56" selection-end-line="770" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1549067989255" expanded="true" signature="15880:15919" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adventure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="354" column="20" selection-start-line="354" selection-start-column="20" selection-end-line="354" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
